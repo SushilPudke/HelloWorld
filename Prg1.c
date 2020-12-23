@@ -1,15 +1,10 @@
-/* A pro for greeting user
-Hi Everyone
-*/
+/* A pro for item bill */
 #include <stdio.h>
 #include<conio.h>
 
 void main()
 {
-	char nm[10];
-	printf("Enter User Name :");
-	scanf("%s",&nm);
-	printf("Hello\t%s\n",nm);
+	printf("Hello, world\n");
 	
 
 }
